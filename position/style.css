@@ -41,8 +41,9 @@ img {
  margin: 200px auto;
  background-image: url("img/backgraynd.jpg");
  color: black;
-}
-
+ display: flex;
+ align-items: center;
+  }
 .s {
  position: relative;
  width:200px ;
